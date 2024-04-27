@@ -1,4 +1,5 @@
-# Lumina
+
+<h1 style="text-align:center"><strong>🐉 Lumina ☀️</strong></h1>
 
 Lumina is a versatile tool designed to facilitate translation and note-taking across different languages. Whether you're dealing with text or audio, Lumina's OCR (Optical Character Recognition) and ASR (Automatic Speech Recognition) capabilities make it easy to transcribe, translate, and take notes in multiple languages.
 
