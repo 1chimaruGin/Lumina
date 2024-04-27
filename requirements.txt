@@ -1,0 +1,11 @@
+gradio==4.28.3
+gradio_client==0.16.0
+numpy==1.26.4
+opencv-python==4.8.0.74
+opencv-python-headless==4.9.0.80
+pandas==2.2.2
+Pillow==9.5.0
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
+easyocr==1.7.1
